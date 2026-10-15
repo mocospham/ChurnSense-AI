@@ -1,0 +1,9 @@
+﻿feature,feature_label,standardized_coefficient,direction
+inactive_days,Ngày không hoạt động,0.2917,Tăng nguy cơ
+app_login_days_30d,Ngày đăng nhập / 30 ngày,-0.2778,Giảm nguy cơ
+avg_balance_million_vnd,Số dư TB (triệu VND),-0.255,Giảm nguy cơ
+complaints_90d,Khiếu nại / 90 ngày,0.2492,Tăng nguy cơ
+tenure_months,Thời gian gắn bó,-0.2238,Giảm nguy cơ
+digital_usage_pct,Tỷ lệ sử dụng số (%),-0.1383,Giảm nguy cơ
+product_count,Số sản phẩm,-0.1361,Giảm nguy cơ
+monthly_transactions,Giao dịch / tháng,-0.1303,Giảm nguy cơ

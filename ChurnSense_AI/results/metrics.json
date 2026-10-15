@@ -1,0 +1,18 @@
+{
+  "n_customers": 1200,
+  "training_samples": 900,
+  "test_samples": 300,
+  "synthetic_churn_rate": 0.2992,
+  "roc_auc_test": 0.7478,
+  "precision_test_at_0_5": 0.675,
+  "recall_test_at_0_5": 0.3,
+  "accuracy_test_at_0_5": 0.7467,
+  "confusion_matrix_tn_fp_fn_tp": [
+    197,
+    13,
+    63,
+    27
+  ],
+  "risk_threshold": 0.5,
+  "disclaimer": "Toy exercise on synthetically generated records. Scores do not validate bank use or performance on real customers."
+}
